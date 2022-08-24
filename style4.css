@@ -1,0 +1,11 @@
+p {
+    border: solid 2px red;
+    width:250px;
+}
+#p1 {
+    padding-top: 10px;
+    padding-left:20px;
+}
+#p2 { 
+    padding: 10px; 
+}
